@@ -1,0 +1,2 @@
+# enseres
+proyecto de inventarios
