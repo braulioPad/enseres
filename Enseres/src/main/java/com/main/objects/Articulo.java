@@ -14,8 +14,9 @@ public class Articulo {
 	private String usuarioCreacion;
 	private String usuarioModificacion;
 	
-	
-	
+	public Articulo() {
+		
+	}
 	public String getNombre() {
 		return nombre;
 	}
